@@ -1,2 +1,2 @@
 # GAT
-clone TextAttack into this repo
+clone TextAttack into this repo to perform textual attack.
